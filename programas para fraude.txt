@@ -1,0 +1,3 @@
+programas usados 
+data bricks usa sql 
+sql service
